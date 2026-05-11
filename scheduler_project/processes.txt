@@ -1,0 +1,4 @@
+# name,arrival_time,bursts...,priority
+P1,0,10,5,8,1
+P2,2,6,3,4,2
+P3,5,12,0
